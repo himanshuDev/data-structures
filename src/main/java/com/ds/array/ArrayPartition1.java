@@ -2,6 +2,11 @@ package com.ds.array;
 
 import java.util.Arrays;
 
+/**
+ * 
+ * @author himanshuupadhyay
+ *
+ */
 public class ArrayPartition1 {
 	public int arrayPairSum(int[] nums) {
 		Arrays.sort(nums);
